@@ -481,7 +481,7 @@ int main() {
 
 ---
 
-#### Q4 Write a Program to check if a given graph is a complete graph. Represent the graph using the Adjacency Matrix representation.
+#### Q6 Write a Program to check if a given graph is a complete graph. Represent the graph using the Adjacency Matrix representation.
 
 ```cpp
 #include <iostream>
